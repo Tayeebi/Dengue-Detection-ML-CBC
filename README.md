@@ -60,8 +60,9 @@ The notebook includes detailed visualizations to interpret the model's logic:
 ### Prerequisites
 The project requires Python and the following machine learning libraries. You can install dependencies using:
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+    ```bash
+    pip install pandas numpy scikit-learn matplotlib seaborn
+    ```
 
 ## 💻 Installation & Usage
 
