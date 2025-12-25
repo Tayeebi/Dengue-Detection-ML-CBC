@@ -46,8 +46,6 @@ The models were evaluated on an 80/20 train-test split. **Logistic Regression** 
 | Neural Network (MLP) | 91.80% | 0.93 | 0.92 | 0.79 |
 | SVM (RBF) | 90.16% | 0.91 | 0.90 | 0.83 |
 
-> *Source: Table 1 - Performance Metrics of Classifiers.*
-
 ## 📉 Visual Analysis
 The notebook includes detailed visualizations to interpret the model's logic:
 * **Confusion Matrices:** Detailed breakdown of True Positives vs. False Negatives.
@@ -60,14 +58,12 @@ The notebook includes detailed visualizations to interpret the model's logic:
 ### Prerequisites
 The project requires Python and the following machine learning libraries. You can install dependencies using:
 
-    pip install pandas numpy scikit-learn matplotlib seaborn
-    
-## 💻 Installation & Usage
+    pip install -r requirements.txt
 
 ### Running the Analysis
 1.  **Clone the repository**:
     ```bash
-    git clone [git clone [https://github.com/Tayeebi/Dengue-Detection-ML-CBC.git](https://github.com/Tayeebi/Dengue-Detection-ML-CBC.git)
+    git clone [https://github.com/YOUR-USERNAME/Dengue-Detection-ML-CBC.git](https://github.com/YOUR-USERNAME/Dengue-Detection-ML-CBC.git)
     cd Dengue-Detection-ML-CBC
     ```
 
@@ -82,9 +78,10 @@ The project requires Python and the following machine learning libraries. You ca
 ## 👥 Authors
 This research was conducted by the **Department of Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.
 
-* *Md. Fardin Tayeebi Sami* 
+* *Badhan Ghosh*
+* *Md. Fardin Tayeebi Sami*
 * *Hozayfah R. Karim*
-* *S.M. Rokibul Hasan* 
+* *S.M. Rokibul Hasan*
 * *Tawhid Hasan*
 
 **Supervisor:**
