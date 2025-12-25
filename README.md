@@ -60,9 +60,7 @@ The notebook includes detailed visualizations to interpret the model's logic:
 ### Prerequisites
 The project requires Python and the following machine learning libraries. You can install dependencies using:
 
-    ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
-    ```
 
 ## 💻 Installation & Usage
 
@@ -82,15 +80,15 @@ The project requires Python and the following machine learning libraries. You ca
     Run all cells in the notebook to reproduce the preprocessing steps, model training, and generate the evaluation metrics.
 
 ## 👥 Authors
-[cite_start]This research was conducted by the **Department of Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**[cite: 3, 91].
+This research was conducted by the **Department of Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.
 
-* **Md. [cite_start]Fardin Tayeebi Sami** [cite: 2]
-* [cite_start]**Hozayfah R. Karim** [cite: 2]
-* **S. [cite_start]M. Rokibul Hasan** [cite: 2]
-* [cite_start]**Tawhid Hasan** [cite: 2]
+* **Md. Fardin Tayeebi Sami** 
+* **Hozayfah R. Karim**
+* **S.M. Rokibul Hasan** 
+* **Tawhid Hasan**
 
 **Supervisor:**
-* **Dr. [cite_start]Md. Asraf Ali** [cite: 90]
+* **Dr. Md. Asraf Ali**
 
 ## 📄 License
 This project is open-source and licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
