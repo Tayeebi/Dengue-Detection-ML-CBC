@@ -67,7 +67,7 @@ The project requires Python and the following machine learning libraries. You ca
 ### Running the Analysis
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/Dengue-Detection-ML-CBC.git](https://github.com/your-username/Dengue-Detection-ML-CBC.git)
+    git clone [git clone [https://github.com/Tayeebi/Dengue-Detection-ML-CBC.git](https://github.com/Tayeebi/Dengue-Detection-ML-CBC.git)
     cd Dengue-Detection-ML-CBC
     ```
 
